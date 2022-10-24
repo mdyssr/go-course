@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Hello, world!](README.md)
+* [🛎 مقدمة الدورة](README.md)
+* [المتغيرات](variables.md)
